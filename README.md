@@ -26,3 +26,7 @@ Passe-nullepart n'était pas loin. Il était crevé comme un pneu. Il était à 
 Mais heureusement Duracell le lapin venant de gagner une course contre Egdard le guépard était super motivé pour aider Passe-nullepart. 
 Il lui donna une bonne dose d'énergie et hop! Passe-nullepart était de nouveau gonflé à bloc! 
 >>>>>>> 3f232eee767d0ad445dfe5744b12f4d74a2e9577
+
+### Phasellus mattis dapibus risus, et lobortis nibh. Donec eleifend ex libero, eget fringilla ligula hendrerit in. Vivamus cursus eu ligula ut porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
+*Morbi rhoncus mollis quam, at molestie velit congue faucibus. Duis sed vulputate urna, lacinia pretium sapien. Duis imperdiet magna orci, eget feugiat felis vehicula a. Nunc pharetra et ante in tristique.*  
+~~Vestibulum iaculis, erat sit amet pulvinar ultricies, mi lacus tristique odio, et luctus mi elit id lectus. Mauris in efficitur enim, vitae scelerisque enim.~~  
