@@ -6,5 +6,11 @@ If I get bord, belive me I will be not that happy.
 
 is not that simple?  
 
+<<<<<<< HEAD
 Yes very simple xD
 
+=======
+Quand soudain!
+Un nain connus vous offres des fleurs
+C'etait passe partout!
+    
