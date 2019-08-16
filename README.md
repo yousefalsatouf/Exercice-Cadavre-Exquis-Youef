@@ -6,3 +6,4 @@ If I get bord, belive me I will be not that happy.
 
 is not that simple?  
 
+![Here is an image](../../Photos/p.jpg)
