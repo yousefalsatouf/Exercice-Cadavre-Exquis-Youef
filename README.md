@@ -6,4 +6,23 @@ If I get bord, belive me I will be not that happy.
 
 is not that simple?  
 
+<<<<<<< HEAD
 ![Here is an image](../../Photos/p.jpg)
+=======
+<<<<<<< HEAD
+Yes very simple xD
+
+=======
+Quand soudain!
+Un nain connus vous offres des fleurs
+C'etait passe partout!
+    
+=======
+
+Passe-nullepart n'était pas loin. Il était crevé comme un pneu. Il était à plat...
+
+=======
+
+Mais heureusement Duracell le lapin venant de gagner une course contre Egdard le guépard était super motivé pour aider Passe-nullepart. 
+Il lui donna une bonne dose d'énergie et hop! Passe-nullepart était de nouveau gonflé à bloc! 
+>>>>>>> 3f232eee767d0ad445dfe5744b12f4d74a2e9577
