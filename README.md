@@ -1,7 +1,8 @@
-# Exercice-Cadavre-Exquis-Youef
-## The First Day With Git At BeCode Was Awsame! 
+# Story Of My Life :
 
-* these are the three lines that i have typed from my local machine
-* these are the three lines that i have typed from my local machine
-* these are the three lines that i have typed from my local machine
+The story of my life is very simple, I do not like doing the same things, I need always to do something different .
+All sort of things, doing the same thing over and over makes bord. 
+If I get bord, belive me I will be not that happy.
+
+is not that simple?  
 
