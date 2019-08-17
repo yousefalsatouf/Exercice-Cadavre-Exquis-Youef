@@ -1,12 +1,11 @@
-# Story Of My Life :
+# How About Traveling Without Planing :
 
-The story of my life is very simple, I do not like doing the same things, I need always to do something different .
-All sort of things, doing the same thing over and over makes bord. 
-If I get bord, belive me I will be not that happy.
+![Here is a traneling photo](https://st-process-production.s3.amazonaws.com/e046bb6c-3dd0-4d92-be54-134802864556/fcf7bcb5-17a4-435f-88dd-3c2ae96a7585.jpg)
 
-is not that simple?  
+Try to take a travel in the next moring to the place that you do not imagine to go there for two days and make it possible .
+I assure you that you will feel different, because you do some thing different.
 
-<<<<<<< HEAD
+
 ![Here is an image](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiJsPyUj4fkAhUNzaQKHbGgBw4QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F446982331738600675%2F&psig=AOvVaw3jSPZ974AySj0_OQqYEyhl&ust=1566035537211188)
 =======
 <<<<<<< HEAD
